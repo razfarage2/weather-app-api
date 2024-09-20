@@ -1,6 +1,8 @@
 import requests
 from creds import api_key
 
+api_key = '8d2b086cfc0fbf83dd44087d797c56f9'
+
 
 def get_weather():
     user_input = input()
